@@ -14,7 +14,7 @@ This repository holds setup notes for the hosted server. The server itself is a 
 
 ## Channels
 
-As of 2026-09-30: Threads, Instagram, YouTube, Facebook, Bluesky and Telegram publish today. Naver Blog works through the uplika Chrome extension in your own browser. TikTok is in platform review. Current status and each channel's limits: https://uplika.com/en/docs/platforms
+As of 2026-10-16: Threads, Instagram, YouTube, Facebook, Bluesky, Telegram and TikTok publish today. Naver Blog works through the uplika Chrome extension in your own browser. Current status and each channel's limits: https://uplika.com/en/docs/platforms
 
 ## Connect your agent
 
